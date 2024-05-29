@@ -1,0 +1,26 @@
+.navigation nav ul {
+    list-style: none;
+    display: flex;
+
+    padding-left: 54px;
+    margin-right: 35px;
+}
+
+.navigation li {
+    padding-left: 54px;
+    margin-top: 87px;
+    color: white;
+}
+
+.navigation a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-family: Merriweather;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navigation {
+    margin-right: 35px;
+}
